@@ -1,0 +1,8 @@
+
+UX, JS, react, web application, forms, router,  component, onSubmit,  multipages, Zustand, map, filter, onClick
+
+JS is the foundation of entire web development. Web pages are largely made with js, it was the original language that made web pages more complex, being able to do more things and not be static pages anymore.
+ UX is the next most important, as its a good user experience that makes a user want to return and use the site again and again.
+ Third is react, as that allows a lot of flexability in making your site, allowing you to make sites easier and better with plugins making devving way-way easier and allowing making polished pages.
+
+Ordering is based on the idea that you need a foundation before you can build on it. JavaScript comes first because the web runs on it. Every other tool in this list depends on it, and it is what turned static pages into interactive ones that can respond to clicks, check forms, and update content without a reload. UX comes second because it determines whether people stay. A site can be technically impressive and still frustrate visitors, so clear navigation, fast feedback, and helpful error messages matter more than any framework choice. React comes third because it lets you build the interface from reusable components, and its large ecosystem of libraries, such as routers, state managers, and map tools, lets you produce polished pages without rebuilding common features from scratch.
